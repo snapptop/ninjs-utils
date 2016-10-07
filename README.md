@@ -1,0 +1,2 @@
+# ninjs-utils
+utils library
